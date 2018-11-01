@@ -3,3 +3,6 @@ bravo
 charlie
 derta
 echo
+foxtrot
+golf
+hotel
