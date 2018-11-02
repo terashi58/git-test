@@ -1,5 +1,8 @@
 alpha America
 bravo Brazil
 charlie China
-derta Denmark
+delta Denmark
 echo England
+foxtrot
+golf
+hotel
