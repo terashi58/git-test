@@ -1,5 +1,5 @@
 alpha America
 bravo Brazil
-charlie
-derta
-echo
+charlie China
+derta Denmark
+echo England
