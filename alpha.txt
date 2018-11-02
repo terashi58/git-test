@@ -3,3 +3,6 @@ bravo
 charlie
 derta
 echo
+x-ray
+yankee
+zuru
