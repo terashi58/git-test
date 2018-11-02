@@ -9,3 +9,6 @@ hotel
 italy
 juliet
 kilo
+x-ray
+yankee
+zuru
