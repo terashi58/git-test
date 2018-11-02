@@ -6,3 +6,6 @@ echo
 foxtrot
 golf
 hotel
+italy
+juliet
+kilo
