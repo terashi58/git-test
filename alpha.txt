@@ -6,3 +6,6 @@ echo
 foxtrot
 golf
 hotel
+x-ray
+yankee
+zuru
