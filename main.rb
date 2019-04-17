@@ -10,6 +10,7 @@ def parse(data)
 end
 
 def find_file(hash)
+  return STDIN unless hash
   path = ".git/objects/#{hash[0...2]}/#{hash[2..-1]}"
   open(path)
 end
